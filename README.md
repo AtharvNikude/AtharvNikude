@@ -1,17 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Atharv Nikude</h1>
 <h3 align="center">I Am Aspiring Cyber Security Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer-gif">
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvnikude&label=Profile%20views&color=0e75b6&style=flat" alt="atharvnikude" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security, Network Security, Social Engineering Attacks, Android Metasploit**
+- ->I am Studying [Computer Engineering From Savitribai Phule Pune University](http://www.unipune.ac.in/)
 
-- 💬 Ask me about **Linux, Networking, OS systems.**
+- ->I’m currently learning **Cyber Security, Network Security, Social Engineering Attacks, Android Metasploit**
 
-- 📫 How to reach me **atharvanikude761@gmail.com**
+- ->Ask me about **Linux, Networking, OS systems.**
 
-- ⚡ Fun fact **The Reason Why I'm Always Sleepy... /YOU WOULD'NT GET IT!/**
+- -> How to reach me **atharvanikude761@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
